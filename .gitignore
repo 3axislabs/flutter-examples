@@ -1,2 +1,3 @@
 #remove root directory files
 .DS_Store
+.keep
